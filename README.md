@@ -19,3 +19,5 @@ We prompt the user to enter three integers using cout and cin, and then calculat
 To find the largest of the three integers, we use nested if statements to compare each number to the other two, and update the value of largest accordingly.
 
 Finally, we output the total and largest values using cout.
+
+Something has been edited
